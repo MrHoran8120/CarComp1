@@ -46,7 +46,7 @@ namespace WindowsFormsApp1
             {
                 theCar.vin.Text = "---";
                 theCar.cost.Text = "----";
-                theCar.Hide();
+               // theCar.Hide();
             }
         }
 
