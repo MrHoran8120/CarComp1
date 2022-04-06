@@ -34,7 +34,7 @@ namespace WindowsFormsApp1
             carCompx.cost.Text = "$32342";
             carCompx.pictureBox1.Load(@"C:\Users\PC\Pictures\Cars\c3.jpg");
 
-            this.Controls.Add(carCompx);
+            this.Controls.Add(carCompx);   
             Globals.carComps.Add(carCompx);
 
             carCompx.Location = new Point(32, 283);
